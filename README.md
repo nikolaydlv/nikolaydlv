@@ -20,8 +20,8 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=nikolaydlv&repo=frontend-project-12&theme)](https://github.com/nikolaydlv/frontend-project-12)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=nikolaydlv&repo=frontend-project-11&theme)](https://github.com/nikolaydlv/frontend-project-11)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=nikolaydlv&repo=frontend-project-44&theme)](https://github.com/nikolaydlv/frontend-project-44)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=nikolaydlv&repo=frontend-project-46&theme)](https://github.com/nikolaydlv/frontend-project-46)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=nikolaydlv&repo=frontend-project-44&theme)](https://github.com/nikolaydlv/frontend-project-44)
 
 ### CONTACTS
 
