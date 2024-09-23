@@ -25,7 +25,7 @@
 
 ### CONTACTS
 
-📫 **E-mail**: wokewoke@mail.ru
+📫 **E-mail**: nik21351@yandex.ru
 
 ✈️ **Telegram**: @nikolay_dlv
 
